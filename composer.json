@@ -1,0 +1,18 @@
+{
+    "name": "simplify/xml",
+    "description": "a simple class to transform a xml and json string or json object into a XML file representation, with ease of exportation and expansion.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simplify\\Xml\\": "src/",
+            "":"src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leo"
+        }
+    ],
+    "require": {}
+}
