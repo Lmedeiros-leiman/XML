@@ -8,7 +8,7 @@ to use this class you need to provide either a path to a XML/JSON file OR the ra
 
 Example:
 ```php
-
+<?php
 $XMLString = "<?xml version="1.0" encoding="UTF-8"?>
   <Test TestId="0001" TestType="CMD">
     <Name>Convert number to string</Name>
